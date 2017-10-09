@@ -1,0 +1,72 @@
+shutdown -s -t 100 -c "This PC has Been Hacked By A Virus"
+
+Sorry Viewers But i have modified the comments because i love these lines 
+
+Let's have a look at this *Virus* or u can say *DOS Command*
+
+
+   The Above Command is So dangerous DOS Commands ,
+   these commands are alive also today because,
+   Windows have a Command Prompt(CMD) that is Derived Form DOS and Command Prompt is Also the 
+   Hands of the Windows(Because it can do anything in your PC with Adminitrater Privillage) and All the Versions of Windows.
+ 
+So be careful with your PC Please Do not use it anywhere far from your Desktop
+Because What it does is...
+****Your PC will Shutdown on every Startup *but after 100 seconds*.
+
+
+
+
+
+
+
+
+
+Let's Understand what we have Created with these commands
+
+shutdown -s  = Shutdown PC Anyway, Because Shutdown Process has Highest Priority in Every Operating
+                        Systems.
+
+
+            -t 100 = The Above Program will Execute after 100 seconds of Startup .
+                          The Startup time starts after when you Enter the Password for your Login. 
+
+             -c  "This PC has Been Hacked By A Virus" = This Command will Print a Message that is
+                                                                                         
+                                                                                         This PC has Been Hacked By A Virus
+
+                                                                                         This Message will only let u know why Shutdown is Done.
+
+
+
+
+
+     C:\Users\Mercy(Desiigner)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+ 
+    **Things that must be Followed
+
+    1. This is the Exact Place Where you have to place your Batch Script   
+
+    2.The Directory \Mercy(Desiigner)\ Is my PC's User name but in Your PC It will be Changed to yours
+        but in my PC my Username is Mercy(Desiigner).
+        I mean C:\Users\ THIS PLACE WILL BE FOR PC NAME \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+       but the rest address will be the same.
+
+   3.The Notepad must be saved with .bat Extension Otherwise it will not Run
+
+   4.Time can be modified as Comment this is not important that must be there.
+
+
+
+
+    *********The Above command Works on Every Windows Version and DOS version*********  
+
+
+
+
+    Thanks for Watching...
+    Subscribe for Updated with my Interesting Videos....
+    And Stay Tuned With  MercyWare Channel
+
+
+  Please Ask Your Doubts or Your Comments or Problems in Comment Section Below.
